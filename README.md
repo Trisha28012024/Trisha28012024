@@ -5,7 +5,7 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY280b3NvcnBkcXN0aDFxYTByczg5ajJoaHZlNHF0MmlpcTJoZHEyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 I am a Full Stack Python Developer
 - 🌱 I’m currently learning Generative AI.
